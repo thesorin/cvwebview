@@ -1,6 +1,7 @@
 <script>
 	import Contents from '$lib/components/cv/contents/Contents.svelte';
 	import Header from '$lib/components/cv/header/Header.svelte';
+	import favicon from '$lib/assets/favicon.ico';
 </script>
 
 <div class="column cv">
@@ -8,20 +9,9 @@
 	<Contents />
 </div>
 
-<!-- <footer>Footer</footer>
-
-<style>
-	footer {
-		display: flex;
-		justify-content: center;
-		height: 5rem;
-		background-color: blue;
-		width: var(--column);
-	}
-</style> -->
-
 <svelte:head>
 	<title>Broscaru Sorin Mihai Curriculum Vitae</title>
+	<link rel="icon" href={favicon} />
 </svelte:head>
 
 <style>
