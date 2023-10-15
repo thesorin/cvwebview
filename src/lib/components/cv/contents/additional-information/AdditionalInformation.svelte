@@ -18,4 +18,12 @@
 		automation. I'm mostly focused on programming interactions between sensors, but I also like
 		getting hands-on with microcontrollers now and then.
 	</SectionParagraph>
+	<h3>Communication and interpersonal skills</h3>
+	<SectionParagraph>
+		With over a decade of professional experience, I have developed strong communication and
+		interpersonal skills that enable me to effectively collaborate with colleagues and managers
+		across international boundaries. Working extensively with global teams, I have cultivated the
+		ability to facilitate clear and efficient communication, ensuring that projects are executed
+		smoothly and goals are met.
+	</SectionParagraph>
 </Section>
