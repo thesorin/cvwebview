@@ -9,7 +9,7 @@
 	title="Computer Programmer"
 	subtitle="@ Ausy Technologies Romania"
 	startDate={new Date(2018, 7, 8)}
-	endDate={new Date(2022, 10, 30)}
+	endDate={new Date(2018, 10, 30)}
 	location="Sibiu, Romania"
 >
 	<SectionParagraph>
