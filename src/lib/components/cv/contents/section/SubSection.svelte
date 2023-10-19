@@ -9,8 +9,8 @@
 	export let location: string;
 	export let dateAsYear: boolean = false;
 
-	$: startDateHuman = dateAsYear ? startDate.getFullYear() : hdate.prettyPrint(startDate);
-	$: endDateHuman = endDate
+	const startDateHuman = dateAsYear ? startDate.getFullYear() : hdate.prettyPrint(startDate);
+	const endDateHuman = endDate
 		? dateAsYear
 			? endDate.getFullYear()
 			: hdate.prettyPrint(endDate)
@@ -23,7 +23,7 @@
 		-
 		<time datetime={toIsoDate(endDate)}>{endDateHuman}</time>
 	{:else if !dateAsYear}
-		CURRENT
+		- CURRENT
 	{/if} | {location}
 </div>
 <h3>{title}<span>{subtitle}</span></h3>
