@@ -3,7 +3,7 @@
 </script>
 
 <div>
-	<img {src} alt="Picuture of Sorin Mihai Broscaru" />
+	<img {src} alt="Sorin Mihai Broscaru" />
 </div>
 
 <style>
@@ -18,7 +18,7 @@
 	img {
 		height: 90%;
 		border-radius: 50%;
-		border: 1px solid rgb(182, 182, 182);
-		filter: drop-shadow(1px 1px 5px black);
+		border: 1px solid rgba(54, 54, 54, 0.37);
+		filter: drop-shadow(5px 5px 50px rgba(0, 0, 0, 0.7));
 	}
 </style>
