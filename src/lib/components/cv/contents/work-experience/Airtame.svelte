@@ -8,7 +8,7 @@
 <SubSection
 	title="Web Application Engineer"
 	subtitle="@ Airtame | Contractor"
-	startDate={new Date(2023, 4, 16)}
+	startDate={new Date(2022, 4, 16)}
 	location="Remote, Denmark"
 >
 	<SectionParagraph

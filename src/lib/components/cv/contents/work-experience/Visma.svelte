@@ -9,7 +9,7 @@
 	title="Front-end Developer"
 	subtitle="@ Visma Software SRL"
 	startDate={new Date(2018, 10, 31)}
-	endDate={new Date(2022, 13, 5)}
+	endDate={new Date(2022, 4, 13)}
 	location="Sibiu, Romania"
 >
 	<SectionParagraph
