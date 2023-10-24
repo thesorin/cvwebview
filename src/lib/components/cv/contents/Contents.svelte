@@ -21,4 +21,9 @@
 		flex: 1;
 		background-color: rgba(236, 236, 236, 0.25);
 	}
+	@media print {
+		main {
+			background-color: transparent;
+		}
+	}
 </style>
