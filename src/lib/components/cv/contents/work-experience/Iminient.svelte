@@ -6,7 +6,7 @@
 </script>
 
 <SubSection
-	title="QA Analist"
+	title="QA Analyst"
 	subtitle="@ Iminent Technology SRL"
 	startDate={new Date(2014, 7, 31)}
 	endDate={new Date(2015, 8, 31)}
@@ -23,22 +23,22 @@
 		</SectionUl>
 	</SectionParagraph>
 	<SectionParagraph>
-		I have learned a lot of new skills, mostly related to software testing, web applications testing
-		and tools used for testing. I have gathered exprience in:
+		I have learned a lot of new skills, mostly related to software testing, web application testing
+		and tools used for testing. I have gathered experience in:
 		<SectionUl>
-			<SectionLi>Using the developer console to debug HTTP calls to server.</SectionLi>
+			<SectionLi>Using the developer console to debug HTTP calls to the server.</SectionLi>
 			<SectionLi>
 				Using Fiddler and Wireshark tools to watch for communication of the desktop applications
 				developed by the company and the online servers.
 			</SectionLi>
 			<SectionLi>
-				Using Virtual Machines ( VmWare ) to test the applications within isolated enviroments.
+				Using Virtual Machines ( VmWare ) to test the applications within isolated environments.
 			</SectionLi>
 		</SectionUl>
 	</SectionParagraph>
 	<SectionParagraph>
-		It was during this time when I first started to tinker with programming. It was because of an
+		It was during this time that I first started to tinker with programming. It was because of an
 		online training for Selenium using C#, and I started working with it more and more. While doing
-		this, I had become interested as well in HTML, CSS and Javascript.
+		this, I became interested in HTML, CSS, and Javascript.
 	</SectionParagraph>
 </SubSection>

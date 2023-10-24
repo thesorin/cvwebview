@@ -18,9 +18,9 @@
 	<tbody>
 		<slot />
 	</tbody>
-	<caption
-		>Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user</caption
-	>
+	<caption>
+		Levels: A1 and A2: Basic user; B1 and B2: Independent user; C1 and C2: Proficient user
+	</caption>
 </table>
 
 <style>
