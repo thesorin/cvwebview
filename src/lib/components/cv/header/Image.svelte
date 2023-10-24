@@ -21,4 +21,9 @@
 		border: 1px solid rgba(54, 54, 54, 0.37);
 		filter: drop-shadow(5px 5px 50px rgba(0, 0, 0, 0.7));
 	}
+	@media print {
+		img {
+			filter: drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.7));
+		}
+	}
 </style>
