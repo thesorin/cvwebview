@@ -10,24 +10,24 @@
 	</SectionParagraph>
 	<SectionParagraph>
 		I had the pleasure of working with various frontend frameworks and libraries such as AngularJS,
-		Svelte and React in order to build powerfull, efficient and quality web applications. I like to
-		focus on the user interface above all else, but I do enjoy the ocasional backend implementations
-		or internal tools development in order to improve development lifecycle.
+		Svelte and React to build powerful, efficient, and quality web applications. I like to focus on
+		the user interface above all else, but I do enjoy the occasional backend implementations or
+		internal tools development to improve the development lifecycle.
 	</SectionParagraph>
 	<SectionParagraph>
 		My expertise extends to TypeScript, HTML & HTML5, CSS/SCSS/SASS while striving to use the latest
-		ECMAScript specifications, and web api's, enabling me to deliver high quality and modern web
+		ECMAScript specifications, and web API's, enabling me to deliver high-quality and modern web
 		solutions.
 	</SectionParagraph>
 	<SectionParagraph>
-		As developer, I had the oportunity of working on various projects: e-learning web application,
-		NodeJs with Express microservice backend application, cloud web application to manage employees
-		shifts, cloud web application to submit income tax to govement, web application in Electron as
-		well as complementary application running on a separate device.
+		As a developer, I had the opportunity to work on various projects: an e-learning web
+		applications, a microservice in NodeJs with Express, a cloud web application to manage employees
+		shift, a cloud web application to submit income tax information to the government, a web
+		application in Electron as well as complementary applications running on a separate device.
 	</SectionParagraph>
 	<SectionParagraph>
-		Prior to my front-end role, I worked as a Quality Assurance professional, gaining valuable
-		insights into user experience and expectations enabeling me to spot valuable improevements in
-		web applications I am working at.
+		Before my front-end role, I worked as a Quality Assurance professional, gaining valuable
+		insights into user experience and expectations enabling me to spot valuable improvements in web
+		applications I am working at.
 	</SectionParagraph>
 </Section>

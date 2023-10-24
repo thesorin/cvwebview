@@ -4,7 +4,7 @@
 
 <SubSection
 	title="Bachelor Degree in Management"
-	subtitle="Univrsity Romana-Americana, Faculty of Management
+	subtitle="University Romana-Americana, Faculty of Management
 	and Marketing"
 	startDate={new Date(2012, 9, 1)}
 	endDate={new Date(2016, 6, 1)}

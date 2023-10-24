@@ -29,7 +29,7 @@
 
 	const computerSkills = [
 		'Jira',
-		'Microst Office',
+		'Microsoft Office',
 		'Google Workspace: Docs, Sheet, etc.',
 		'Outlook'
 	];

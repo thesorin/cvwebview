@@ -13,20 +13,20 @@
 	location="Sibiu, Romania"
 >
 	<SectionParagraph>
-		As QA Software Professional at IMC AG I had main responsibility of ensuring the quality of the
-		web application developed and maintained by the company, doing this meant that I had to:
+		As a QA Software Professional at IMC AG, I had the main responsibility of ensuring the quality
+		of the web application developed and maintained by the company, doing this meant that I had to:
 		<SectionUl>
-			<SectionLi>Write regression test cases for developed feature of the application.</SectionLi>
-			<SectionLi>Maintain, adjust and update old test cases.</SectionLi>
+			<SectionLi>
+				Write regression test cases for the developed feature of the application.
+			</SectionLi>
+			<SectionLi>Maintain, adjust, and update old test cases.</SectionLi>
 			<SectionLi>Run the regression tests on the online platforms during QA Phases.</SectionLi>
+			<SectionLi>Work closely with the developer to reproduce and help fix found issues.</SectionLi>
 			<SectionLi>
-				Work cosely with the developer in order to reproduce and help fix found issues.
+				Provide input over user experience of the product and newly implemented features to the
+				product manager.
 			</SectionLi>
-			<SectionLi>
-				Provide input over user experience to the of the product and newly implemented features to
-				the product manager.
-			</SectionLi>
-			<SectionLi>Work Agile withing a development team in Sprints of 2 weeks length.</SectionLi>
+			<SectionLi>Work Agile within a development team in Sprints of 2 weeks in length.</SectionLi>
 		</SectionUl>
 	</SectionParagraph>
 </SubSection>

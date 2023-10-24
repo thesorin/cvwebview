@@ -3,7 +3,7 @@
 </script>
 
 <SubSection
-	title="Agile Awarness - Conference"
+	title="Agile Awareness - Conference"
 	subtitle="PM ACCESS | Training under Iminent Technology"
 	startDate={new Date(2014, 9, 1)}
 	location="Bucharest, Romania"

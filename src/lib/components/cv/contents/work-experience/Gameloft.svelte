@@ -13,15 +13,15 @@
 	location="Bucharest, Romania"
 >
 	<SectionParagraph>
-		While working as QA Tester for Gameloft, I had the opportunity to learn the basics of software
+		While working as a QA Tester for Gameloft, I had the opportunity to learn the basics of software
 		testing.
 	</SectionParagraph>
 	<SectionParagraph>
-		My main attributes for the first period withing the company was to test the applications
-		developed by the company, mostly games built for iOS for Apple Smartphones. During these first
-		months my main responsibilities were to:
+		My main attribute for the first period within the company was to test the applications developed
+		by the company, mostly games built for iOS for Apple Smartphones. During these first months my
+		main responsibilities were to:
 		<SectionUl>
-			<SectionLi>Installing the applications on smartphones and tables.</SectionLi>
+			<SectionLi>Installing the applications on smartphones and tablets.</SectionLi>
 			<SectionLi>Test the applications.</SectionLi>
 			<SectionLi>
 				Insert in the database of the company any bugs or software issues encountered during the
@@ -31,7 +31,7 @@
 				Performing general regression tests based on rules which the applications were required to
 				meet.
 			</SectionLi>
-			<SectionLi>Retest and confirming if issues were fixed by development team.</SectionLi>
+			<SectionLi>Retest and confirm if issues were fixed by the development team.</SectionLi>
 		</SectionUl>
 	</SectionParagraph>
 
@@ -41,8 +41,7 @@
 
 		<SectionUl>
 			<SectionLi>
-				Training and instructing new colleges in the team in order to bring them up to the team
-				standards.
+				Training and instructing new colleagues in the team to bring them up to the team standards.
 			</SectionLi>
 			<SectionLi>
 				Mentoring the trainee assigned to me for better wording and describing the issues he found.
@@ -54,23 +53,26 @@
 	</SectionParagraph>
 
 	<SectionParagraph>
-		During my last year at the company I had the opportunity of working for the live monitoring
-		team, team which started from the QA members with the purpose of watching and monitoring the
-		applications in real time to avoid any down time for the online features. During this period I
-		had the following responsibilities:
+		During my last year at the company I had the opportunity to work for the live monitoring team,
+		team which started from the QA members to watch and monitor the applications in real time to
+		avoid any downtime for the online features. During this period I had the following
+		responsibilities:
 		<SectionUl>
 			<SectionLi>
-				Monitoring the application online features, like multiplayer withing applications or payment
-				features.
+				Monitoring the application's online features, like multiplayer within applications or
+				payment features.
 			</SectionLi>
-			<SectionLi>Writing complete report of the status of the applications over the day.</SectionLi>
+			<SectionLi
+				>Writing a complete report of the status of the applications over the day.</SectionLi
+			>
 			<SectionLi>
 				Alerting development departments or online server departments of any issues found in the
 				applications in the shortest possible time.
 			</SectionLi>
 			<SectionLi>
-				During weekend over time or when the team lead was missing, I had to organize the tasks
-				withing the team and make sure the issues were solved fast.
+				For overtime during the weekends when the team lead was missing, I would take over his
+				responsibilities with organizing the tasks within the team and making sure any impediments
+				or issues hindering the team's ability to work are solved quickly.
 			</SectionLi>
 		</SectionUl>
 	</SectionParagraph>
@@ -79,12 +81,10 @@
 
 		<SectionUl>
 			<SectionLi>Organized and focused on the task at hand.</SectionLi>
+			<SectionLi>Abel to deliver results within a reasonable time frame and a deadline.</SectionLi>
 			<SectionLi>
-				Abel to deliver results withing a reasonable time frame and within a deadline.
-			</SectionLi>
-			<SectionLi>
-				The attention to details and short time memory has developed quite a lot, usually I end up
-				remembering around last 10-20 steps I have made.
+				My attention to detail and short-term memory have developed quite a lot, usually, I end up
+				remembering around the last 10-20 steps I have made.
 			</SectionLi>
 			<SectionLi>
 				The ability to investigate reasons why an issue occurs and find the exact steps of
