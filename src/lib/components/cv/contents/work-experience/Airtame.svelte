@@ -6,7 +6,7 @@
 </script>
 
 <SubSection
-	title="Web Application Engineer"
+	title="Web Application Consultant"
 	subtitle="@ Airtame | Contractor"
 	startDate={new Date(2022, 4, 16)}
 	location="Remote, Denmark"
